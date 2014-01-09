@@ -1,0 +1,41 @@
+@CHARSET "ISO-8859-1";
+.bg_branco {  
+	background: rgb(255, 255, 255);
+}
+
+.noticia{
+	margin:30px;
+}
+
+
+
+img.figure{
+	float:right;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.figureLegenda {
+    float: right;
+    margin: 15px 10px 5px 10px;
+}
+
+.figureLegenda p{
+	text-align:center;
+}
+
+.simbologia{
+	padding:30px;
+	margin:30px;
+}
+
+
+
+body{
+ no-repeat center center fixed;
+background: url('../../imagem/bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;	
+} 
